@@ -1,0 +1,193 @@
+Jul  3 13:31:06 a1 syslog.info syslogd started: BusyBox v1.30.1
+Jul  3 13:31:06 a1 daemon.info init: starting pid 224, tty '': '/sbin/openrc default'
+Jul  3 13:31:08 a1 cron.info crond[244]: crond (busybox 1.30.1) started, log level 8
+Jul  3 13:31:11 a1 daemon.info init: starting pid 299, tty '': '/sbin/getty 38400 console'
+Jul  3 13:34:20 a1 daemon.info init: starting pid 320, tty '': '/sbin/openrc shutdown'
+Jul  3 13:34:20 a1 user.debug : Will stop /usr/sbin/crond
+Jul  3 13:34:20 a1 user.debug : Will stop PID 244
+Jul  3 13:34:20 a1 user.debug : Sending signal 15 to PID 244
+Jul  3 13:34:20 a1 user.debug : Will stop /sbin/syslogd
+Jul  3 13:34:20 a1 user.debug : Will stop PID 217
+Jul  3 13:34:20 a1 user.debug : Sending signal 15 to PID 217
+Jul  3 13:34:20 a1 syslog.info syslogd exiting
+Jul  3 13:46:59 a1 syslog.info syslogd started: BusyBox v1.30.1
+Jul  3 13:46:59 a1 daemon.info init: starting pid 218, tty '': '/sbin/openrc default'
+Jul  3 13:47:00 a1 cron.info crond[238]: crond (busybox 1.30.1) started, log level 8
+Jul  3 13:47:01 a1 daemon.info init: starting pid 308, tty '': '/sbin/getty 38400 console'
+Jul  3 13:54:27 a1 daemon.info init: starting pid 309, tty '': '/sbin/openrc shutdown'
+Jul  3 13:54:27 a1 user.debug : Will stop /usr/sbin/crond
+Jul  3 13:54:27 a1 user.debug : Will stop PID 238
+Jul  3 13:54:27 a1 user.debug : Sending signal 15 to PID 238
+Jul  3 13:54:27 a1 user.debug : Will stop /sbin/syslogd
+Jul  3 13:54:27 a1 user.debug : Will stop PID 211
+Jul  3 13:54:27 a1 user.debug : Sending signal 15 to PID 211
+Jul  3 13:54:27 a1 syslog.info syslogd exiting
+Jul  3 13:56:36 a1 syslog.info syslogd started: BusyBox v1.30.1
+Jul  3 13:56:36 a1 daemon.info init: starting pid 218, tty '': '/sbin/openrc default'
+Jul  3 13:56:37 a1 cron.info crond[238]: crond (busybox 1.30.1) started, log level 8
+Jul  3 13:56:38 a1 daemon.info init: starting pid 313, tty '': '/sbin/getty 38400 console'
+Jul  3 13:57:23 a1 daemon.info init: starting pid 314, tty '': '/sbin/openrc shutdown'
+Jul  3 13:57:23 a1 user.debug : Will stop /usr/sbin/crond
+Jul  3 13:57:23 a1 user.debug : Will stop PID 238
+Jul  3 13:57:23 a1 user.debug : Sending signal 15 to PID 238
+Jul  3 13:57:23 a1 user.debug : Will stop /sbin/syslogd
+Jul  3 13:57:23 a1 user.debug : Will stop PID 211
+Jul  3 13:57:23 a1 user.debug : Sending signal 15 to PID 211
+Jul  3 13:57:23 a1 syslog.info syslogd exiting
+Jul  3 13:58:01 a1 syslog.info syslogd started: BusyBox v1.30.1
+Jul  3 13:58:01 a1 daemon.info init: starting pid 218, tty '': '/sbin/openrc default'
+Jul  3 13:58:02 a1 cron.info crond[238]: crond (busybox 1.30.1) started, log level 8
+Jul  3 13:58:03 a1 daemon.info init: starting pid 313, tty '': '/sbin/getty 38400 console'
+Jul  3 14:00:00 a1 cron.info crond[238]: USER root pid 478 cmd run-parts /etc/periodic/15min
+Jul  3 14:00:00 a1 cron.info crond[238]: USER root pid 479 cmd run-parts /etc/periodic/hourly
+Jul  3 14:15:00 a1 cron.info crond[238]: USER root pid 480 cmd run-parts /etc/periodic/15min
+Jul  3 14:26:44 a1 daemon.info init: starting pid 481, tty '': '/sbin/openrc shutdown'
+Jul  3 14:26:44 a1 user.debug : Will stop /usr/sbin/nginx
+Jul  3 14:26:44 a1 user.debug : Will stop PID 466
+Jul  3 14:26:44 a1 user.debug : Sending signal 15 to PID 466
+Jul  3 14:26:44 a1 user.debug : Will stop /usr/sbin/crond
+Jul  3 14:26:44 a1 user.debug : Will stop PID 238
+Jul  3 14:26:44 a1 user.debug : Sending signal 15 to PID 238
+Jul  3 14:26:44 a1 user.debug : Will stop /sbin/syslogd
+Jul  3 14:26:44 a1 user.debug : Will stop PID 211
+Jul  3 14:26:44 a1 user.debug : Sending signal 15 to PID 211
+Jul  3 14:26:44 a1 syslog.info syslogd exiting
+Jul  3 14:27:07 a1 syslog.info syslogd started: BusyBox v1.30.1
+Jul  3 14:27:07 a1 daemon.info init: starting pid 220, tty '': '/sbin/openrc default'
+Jul  3 14:27:08 a1 cron.info crond[240]: crond (busybox 1.30.1) started, log level 8
+Jul  3 14:27:08 a1 daemon.info init: starting pid 295, tty '': '/sbin/getty 38400 console'
+Jul  3 14:30:00 a1 cron.info crond[240]: USER root pid 337 cmd run-parts /etc/periodic/15min
+Jul  3 14:32:56 a1 daemon.info init: starting pid 338, tty '': '/sbin/openrc shutdown'
+Jul  3 14:32:56 a1 user.debug : Will stop /usr/sbin/nginx
+Jul  3 14:32:56 a1 user.debug : Will stop PID 320
+Jul  3 14:32:56 a1 user.debug : Sending signal 15 to PID 320
+Jul  3 14:32:56 a1 user.debug : Will stop /usr/sbin/crond
+Jul  3 14:32:56 a1 user.debug : Will stop PID 240
+Jul  3 14:32:56 a1 user.debug : Sending signal 15 to PID 240
+Jul  3 14:32:56 a1 user.debug : Will stop /sbin/syslogd
+Jul  3 14:32:56 a1 user.debug : Will stop PID 213
+Jul  3 14:32:56 a1 user.debug : Sending signal 15 to PID 213
+Jul  3 14:32:56 a1 syslog.info syslogd exiting
+Jul  3 14:33:17 a1 syslog.info syslogd started: BusyBox v1.30.1
+Jul  3 14:33:17 a1 daemon.info init: starting pid 220, tty '': '/sbin/openrc default'
+Jul  3 14:33:19 a1 cron.info crond[240]: crond (busybox 1.30.1) started, log level 8
+Jul  3 14:33:19 a1 daemon.info init: starting pid 310, tty '': '/sbin/getty 38400 console'
+Jul  3 14:36:18 a1 daemon.info init: starting pid 349, tty '': '/sbin/openrc shutdown'
+Jul  3 14:36:18 a1 user.debug : Will stop /usr/sbin/nginx
+Jul  3 14:36:18 a1 user.debug : Will stop PID 335
+Jul  3 14:36:18 a1 user.debug : Sending signal 15 to PID 335
+Jul  3 14:36:18 a1 user.debug : Will stop /usr/sbin/crond
+Jul  3 14:36:18 a1 user.debug : Will stop PID 240
+Jul  3 14:36:18 a1 user.debug : Sending signal 15 to PID 240
+Jul  3 14:36:18 a1 user.debug : Will stop /sbin/syslogd
+Jul  3 14:36:18 a1 user.debug : Will stop PID 213
+Jul  3 14:36:18 a1 user.debug : Sending signal 15 to PID 213
+Jul  3 14:36:18 a1 syslog.info syslogd exiting
+Jul  3 14:37:04 a1 syslog.info syslogd started: BusyBox v1.30.1
+Jul  3 14:37:04 a1 daemon.info init: starting pid 220, tty '': '/sbin/openrc default'
+Jul  3 14:37:06 a1 cron.info crond[240]: crond (busybox 1.30.1) started, log level 8
+Jul  3 14:37:06 a1 daemon.info init: starting pid 295, tty '': '/sbin/getty 38400 console'
+Jul  3 14:37:33 a1 daemon.info init: starting pid 296, tty '': '/sbin/openrc shutdown'
+Jul  3 14:37:33 a1 user.debug : Will stop /usr/sbin/crond
+Jul  3 14:37:33 a1 user.debug : Will stop PID 240
+Jul  3 14:37:33 a1 user.debug : Sending signal 15 to PID 240
+Jul  3 14:37:33 a1 user.debug : Will stop /sbin/syslogd
+Jul  3 14:37:33 a1 user.debug : Will stop PID 213
+Jul  3 14:37:33 a1 user.debug : Sending signal 15 to PID 213
+Jul  3 14:37:33 a1 syslog.info syslogd exiting
+Jul  3 14:39:26 a1 syslog.info syslogd started: BusyBox v1.30.1
+Jul  3 14:39:26 a1 daemon.info init: starting pid 220, tty '': '/sbin/openrc default'
+Jul  3 14:39:27 a1 cron.info crond[240]: crond (busybox 1.30.1) started, log level 8
+Jul  3 14:39:28 a1 daemon.info init: starting pid 325, tty '': '/sbin/getty 38400 console'
+Jul  3 14:45:00 a1 cron.info crond[240]: USER root pid 326 cmd run-parts /etc/periodic/15min
+Jul  3 14:50:08 a1 daemon.info init: starting pid 327, tty '': '/sbin/openrc shutdown'
+Jul  3 14:50:08 a1 user.debug : Will stop /usr/sbin/crond
+Jul  3 14:50:08 a1 user.debug : Will stop PID 240
+Jul  3 14:50:08 a1 user.debug : Sending signal 15 to PID 240
+Jul  3 14:50:08 a1 user.debug : Will stop /sbin/syslogd
+Jul  3 14:50:08 a1 user.debug : Will stop PID 213
+Jul  3 14:50:08 a1 user.debug : Sending signal 15 to PID 213
+Jul  3 14:50:08 a1 syslog.info syslogd exiting
+Jul  3 14:52:13 a1 syslog.info syslogd started: BusyBox v1.30.1
+Jul  3 14:52:13 a1 daemon.info init: starting pid 220, tty '': '/sbin/openrc default'
+Jul  3 14:52:15 a1 cron.info crond[240]: crond (busybox 1.30.1) started, log level 8
+Jul  3 14:52:15 a1 daemon.info init: starting pid 315, tty '': '/sbin/getty 38400 console'
+Jul  3 14:53:36 a1 daemon.info init: starting pid 325, tty '': '/sbin/openrc shutdown'
+Jul  3 14:53:36 a1 user.debug : Will stop /usr/sbin/crond
+Jul  3 14:53:36 a1 user.debug : Will stop PID 240
+Jul  3 14:53:36 a1 user.debug : Sending signal 15 to PID 240
+Jul  3 14:53:36 a1 user.debug : Will stop /sbin/syslogd
+Jul  3 14:53:36 a1 user.debug : Will stop PID 213
+Jul  3 14:53:36 a1 user.debug : Sending signal 15 to PID 213
+Jul  3 14:53:36 a1 syslog.info syslogd exiting
+Jul  3 14:53:40 a1 syslog.info syslogd started: BusyBox v1.30.1
+Jul  3 14:53:40 a1 daemon.info init: starting pid 220, tty '': '/sbin/openrc default'
+Jul  3 14:53:42 a1 cron.info crond[240]: crond (busybox 1.30.1) started, log level 8
+Jul  3 14:53:44 a1 daemon.info init: starting pid 344, tty '': '/sbin/getty 38400 console'
+Jul  3 14:54:17 a1 daemon.info init: starting pid 345, tty '': '/sbin/openrc shutdown'
+Jul  3 14:54:17 a1 user.debug : Will stop /usr/sbin/nginx
+Jul  3 14:54:17 a1 user.debug : Will stop PID 336
+Jul  3 14:54:17 a1 user.debug : Sending signal 15 to PID 336
+Jul  3 14:54:17 a1 user.debug : Will stop /usr/sbin/crond
+Jul  3 14:54:17 a1 user.debug : Will stop PID 240
+Jul  3 14:54:17 a1 user.debug : Sending signal 15 to PID 240
+Jul  3 14:54:17 a1 user.debug : Will stop /sbin/syslogd
+Jul  3 14:54:17 a1 user.debug : Will stop PID 213
+Jul  3 14:54:17 a1 user.debug : Sending signal 15 to PID 213
+Jul  3 14:54:17 a1 syslog.info syslogd exiting
+Jul  3 14:54:41 a1 syslog.info syslogd started: BusyBox v1.30.1
+Jul  3 14:54:41 a1 daemon.info init: starting pid 220, tty '': '/sbin/openrc default'
+Jul  3 14:54:42 a1 cron.info crond[240]: crond (busybox 1.30.1) started, log level 8
+Jul  3 14:54:44 a1 daemon.info init: starting pid 334, tty '': '/sbin/getty 38400 console'
+Jul  3 14:55:04 a1 daemon.info init: starting pid 335, tty '': '/sbin/openrc shutdown'
+Jul  3 14:55:04 a1 user.debug : Will stop /usr/sbin/nginx
+Jul  3 14:55:04 a1 user.debug : Will stop PID 326
+Jul  3 14:55:04 a1 user.debug : Sending signal 15 to PID 326
+Jul  3 14:55:04 a1 user.debug : Will stop /usr/sbin/crond
+Jul  3 14:55:04 a1 user.debug : Will stop PID 240
+Jul  3 14:55:04 a1 user.debug : Sending signal 15 to PID 240
+Jul  3 14:55:04 a1 user.debug : Will stop /sbin/syslogd
+Jul  3 14:55:04 a1 user.debug : Will stop PID 213
+Jul  3 14:55:04 a1 user.debug : Sending signal 15 to PID 213
+Jul  3 14:55:04 a1 syslog.info syslogd exiting
+Jul  3 14:55:09 a1 syslog.info syslogd started: BusyBox v1.30.1
+Jul  3 14:55:09 a1 daemon.info init: starting pid 220, tty '': '/sbin/openrc default'
+Jul  3 14:55:11 a1 cron.info crond[240]: crond (busybox 1.30.1) started, log level 8
+Jul  3 14:55:12 a1 daemon.info init: starting pid 334, tty '': '/sbin/getty 38400 console'
+Jul  3 14:55:15 a1 daemon.info init: starting pid 335, tty '': '/sbin/openrc shutdown'
+Jul  3 14:55:15 a1 user.debug : Will stop /usr/sbin/nginx
+Jul  3 14:55:15 a1 user.debug : Will stop PID 326
+Jul  3 14:55:15 a1 user.debug : Sending signal 15 to PID 326
+Jul  3 14:55:15 a1 user.debug : Will stop /usr/sbin/crond
+Jul  3 14:55:15 a1 user.debug : Will stop PID 240
+Jul  3 14:55:15 a1 user.debug : Sending signal 15 to PID 240
+Jul  3 14:55:16 a1 user.debug : Will stop /sbin/syslogd
+Jul  3 14:55:16 a1 user.debug : Will stop PID 213
+Jul  3 14:55:16 a1 user.debug : Sending signal 15 to PID 213
+Jul  3 14:55:16 a1 syslog.info syslogd exiting
+Jul  3 14:55:20 a1 syslog.info syslogd started: BusyBox v1.30.1
+Jul  3 14:55:20 a1 daemon.info init: starting pid 220, tty '': '/sbin/openrc default'
+Jul  3 14:55:21 a1 cron.info crond[240]: crond (busybox 1.30.1) started, log level 8
+Jul  3 14:55:23 a1 daemon.info init: starting pid 339, tty '': '/sbin/getty 38400 console'
+Jul  3 15:00:00 a1 cron.info crond[240]: USER root pid 340 cmd run-parts /etc/periodic/15min
+Jul  3 15:00:00 a1 cron.info crond[240]: USER root pid 341 cmd run-parts /etc/periodic/hourly
+Jul  3 15:15:00 a1 cron.info crond[240]: USER root pid 342 cmd run-parts /etc/periodic/15min
+Jul  3 15:30:00 a1 cron.info crond[240]: USER root pid 380 cmd run-parts /etc/periodic/15min
+Jul  3 15:45:00 a1 cron.info crond[240]: USER root pid 402 cmd run-parts /etc/periodic/15min
+Jul  3 16:00:00 a1 cron.info crond[240]: USER root pid 412 cmd run-parts /etc/periodic/15min
+Jul  3 16:00:00 a1 cron.info crond[240]: USER root pid 413 cmd run-parts /etc/periodic/hourly
+Jul  3 16:15:00 a1 cron.info crond[240]: USER root pid 414 cmd run-parts /etc/periodic/15min
+Jul  3 16:30:00 a1 cron.info crond[240]: USER root pid 424 cmd run-parts /etc/periodic/15min
+Jul  3 16:45:00 a1 cron.info crond[240]: USER root pid 425 cmd run-parts /etc/periodic/15min
+Jul  3 17:00:00 a1 cron.info crond[240]: USER root pid 435 cmd run-parts /etc/periodic/15min
+Jul  3 17:00:00 a1 cron.info crond[240]: USER root pid 436 cmd run-parts /etc/periodic/hourly
+Jul  3 17:15:00 a1 cron.info crond[240]: USER root pid 437 cmd run-parts /etc/periodic/15min
+Jul  3 17:30:00 a1 cron.info crond[240]: USER root pid 447 cmd run-parts /etc/periodic/15min
+Jul  3 17:45:00 a1 cron.info crond[240]: USER root pid 448 cmd run-parts /etc/periodic/15min
+Jul  3 18:00:00 a1 cron.info crond[240]: USER root pid 458 cmd run-parts /etc/periodic/15min
+Jul  3 18:00:00 a1 cron.info crond[240]: USER root pid 459 cmd run-parts /etc/periodic/hourly
+Jul  3 18:15:00 a1 cron.info crond[240]: USER root pid 465 cmd run-parts /etc/periodic/15min
+Jul  3 18:30:00 a1 cron.info crond[240]: USER root pid 466 cmd run-parts /etc/periodic/15min
+Jul  3 18:45:00 a1 cron.info crond[240]: USER root pid 476 cmd run-parts /etc/periodic/15min
+Jul  3 19:00:00 a1 cron.info crond[240]: USER root pid 477 cmd run-parts /etc/periodic/15min
+Jul  3 19:00:00 a1 cron.info crond[240]: USER root pid 478 cmd run-parts /etc/periodic/hourly

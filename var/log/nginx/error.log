@@ -1,0 +1,2 @@
+2019/07/03 14:28:29 [error] 322#322: *1 directory index of "/var/www/" is forbidden, client: 127.0.0.1, server: , request: "GET / HTTP/1.1", host: "localhost"
+2019/07/03 14:34:54 [error] 337#337: *5 open() "/var/www/favicon.ico" failed (2: No such file or directory), client: 10.254.184.1, server: , request: "GET /favicon.ico HTTP/1.0", host: "10.254.184.30"
