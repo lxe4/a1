@@ -840,7 +840,6 @@ tmp/.ICE-unix	d	100000	100000	1777
 tmp/.ICE-unix/.keep	f	0	0	0644
 tmp/.X11-unix	d	100000	100000	1777
 tmp/.X11-unix/.keep	f	0	0	0644
-tmp/.keep	f	0	0	0644
 usr	d	100000	100000	0755
 usr/bin	d	100000	100000	0755
 usr/bin/[	l	100000	100000	0664
