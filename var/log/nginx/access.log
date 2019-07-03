@@ -38,3 +38,4 @@
 10.254.184.1 - - [03/Jul/2019:14:55:25 +0000] "GET / HTTP/1.0" 304 0 "-" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10.13; rv:68.0) Gecko/20100101 Firefox/68.0" "-"
 10.254.184.1 - - [03/Jul/2019:14:55:25 +0000] "GET / HTTP/1.0" 304 0 "-" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10.13; rv:68.0) Gecko/20100101 Firefox/68.0" "-"
 10.254.184.1 - - [03/Jul/2019:14:55:25 +0000] "GET / HTTP/1.0" 304 0 "-" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10.13; rv:68.0) Gecko/20100101 Firefox/68.0" "-"
+127.0.0.1 - - [03/Jul/2019:19:31:25 +0000] "GET / HTTP/1.1" 200 31 "-" "Wget" "-"
