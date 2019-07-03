@@ -191,3 +191,15 @@ Jul  3 18:30:00 a1 cron.info crond[240]: USER root pid 466 cmd run-parts /etc/pe
 Jul  3 18:45:00 a1 cron.info crond[240]: USER root pid 476 cmd run-parts /etc/periodic/15min
 Jul  3 19:00:00 a1 cron.info crond[240]: USER root pid 477 cmd run-parts /etc/periodic/15min
 Jul  3 19:00:00 a1 cron.info crond[240]: USER root pid 478 cmd run-parts /etc/periodic/hourly
+Jul  3 19:15:00 a1 cron.info crond[240]: USER root pid 488 cmd run-parts /etc/periodic/15min
+Jul  3 19:23:07 a1 daemon.info init: starting pid 489, tty '': '/sbin/openrc shutdown'
+Jul  3 19:23:07 a1 user.debug : Will stop /usr/sbin/nginx
+Jul  3 19:23:07 a1 user.debug : Will stop PID 331
+Jul  3 19:23:07 a1 user.debug : Sending signal 15 to PID 331
+Jul  3 19:23:07 a1 user.debug : Will stop /usr/sbin/crond
+Jul  3 19:23:07 a1 user.debug : Will stop PID 240
+Jul  3 19:23:07 a1 user.debug : Sending signal 15 to PID 240
+Jul  3 19:23:07 a1 user.debug : Will stop /sbin/syslogd
+Jul  3 19:23:07 a1 user.debug : Will stop PID 213
+Jul  3 19:23:07 a1 user.debug : Sending signal 15 to PID 213
+Jul  3 19:23:07 a1 syslog.info syslogd exiting

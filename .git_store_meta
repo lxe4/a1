@@ -1274,7 +1274,6 @@ var/lib/nginx/html/50x.html	f	100000	100000	0644
 var/lib/nginx/html/index.html	f	100000	100000	0644
 var/lib/nginx/logs	l	100000	100000	0664
 var/lib/nginx/modules	l	100000	100000	0664
-var/lib/nginx/run	l	100000	100000	0664
 var/lib/nginx/tmp	l	100000	100000	0664
 var/lib/udhcpd	d	100000	100000	0755
 var/lib/udhcpd/.keep	f	0	0	0644
@@ -1289,7 +1288,6 @@ var/log/nginx/error.log	f	100000	100000	0644
 var/log/wtmp	f	100000	100406	0664
 var/opt	d	100000	100000	0755
 var/opt/.keep	f	0	0	0644
-var/run	l	100000	100000	0664
 var/spool	d	100000	100000	0755
 var/spool/cron	d	100000	100000	0755
 var/spool/cron/crontabs	l	100000	100000	0664
