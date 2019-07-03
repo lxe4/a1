@@ -835,11 +835,6 @@ sys/kernel/debug	d	100000	100000	0755
 sys/kernel/debug/.keep	f	0	0	0644
 sys/kernel/security	d	100000	100000	0755
 sys/kernel/security/.keep	f	0	0	0644
-tmp	d	100000	100000	1777
-tmp/.ICE-unix	d	100000	100000	1777
-tmp/.ICE-unix/.keep	f	0	0	0644
-tmp/.X11-unix	d	100000	100000	1777
-tmp/.X11-unix/.keep	f	0	0	0644
 usr	d	100000	100000	0755
 usr/bin	d	100000	100000	0755
 usr/bin/[	l	100000	100000	0664
@@ -1307,10 +1302,10 @@ var/local	d	100000	100000	0755
 var/local/.keep	f	0	0	0644
 var/lock	l	100000	100000	0664
 var/log	d	100000	100000	0755
-var/log/messages	f	0	0	0644
+var/log/messages	f	100000	100000	0644
 var/log/nginx	d	100000	100000	0755
-var/log/nginx/access.log	f	0	0	0644
-var/log/nginx/error.log	f	100000	100000	0644
+var/log/nginx/access.log	f	100000	100000	0644
+var/log/nginx/error.log	f	0	0	0644
 var/log/wtmp	f	100000	100406	0664
 var/opt	d	100000	100000	0755
 var/opt/.keep	f	0	0	0644
