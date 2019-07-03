@@ -232,3 +232,18 @@ Jul  3 19:52:33 a1 user.debug : Will stop /sbin/syslogd
 Jul  3 19:52:33 a1 user.debug : Will stop PID 213
 Jul  3 19:52:33 a1 user.debug : Sending signal 15 to PID 213
 Jul  3 19:52:33 a1 syslog.info syslogd exiting
+Jul  3 19:53:30 a2 syslog.info syslogd started: BusyBox v1.30.1
+Jul  3 19:53:30 a2 daemon.info init: starting pid 220, tty '': '/sbin/openrc default'
+Jul  3 19:53:31 a2 cron.info crond[240]: crond (busybox 1.30.1) started, log level 8
+Jul  3 19:53:33 a2 daemon.info init: starting pid 329, tty '': '/sbin/getty 38400 console'
+Jul  3 19:53:42 a2 daemon.info init: starting pid 330, tty '': '/sbin/openrc shutdown'
+Jul  3 19:53:42 a2 user.debug : Will stop /usr/sbin/nginx
+Jul  3 19:53:42 a2 user.debug : Will stop PID 321
+Jul  3 19:53:42 a2 user.debug : Sending signal 15 to PID 321
+Jul  3 19:53:42 a2 user.debug : Will stop /usr/sbin/crond
+Jul  3 19:53:42 a2 user.debug : Will stop PID 240
+Jul  3 19:53:42 a2 user.debug : Sending signal 15 to PID 240
+Jul  3 19:53:42 a2 user.debug : Will stop /sbin/syslogd
+Jul  3 19:53:42 a2 user.debug : Will stop PID 213
+Jul  3 19:53:42 a2 user.debug : Sending signal 15 to PID 213
+Jul  3 19:53:42 a2 syslog.info syslogd exiting
